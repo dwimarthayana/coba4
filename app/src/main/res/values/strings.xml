@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IMADEDWIMARTHAYANA_1202150061_STUDYCASE4</string>
+    <string-array name="namaMhs">
+        <item>Budi</item>
+        <item>Andi</item>
+        <item>Martha</item>
+        <item>Arya</item>
+        <item>Haikal</item>
+        <item>Jono</item>
+        <item>Rangga</item>
+        <item>Aziz</item>
+        <item>Aan</item>
+        <item>Yodi</item>
+        <item>Leo</item>
+        <item>Afwan</item>
+        <item>Hans</item>
+
+    </string-array>
+</resources>
